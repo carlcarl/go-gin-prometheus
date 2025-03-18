@@ -1,4 +1,4 @@
-module ginprometheus
+module github.com/carlcarl/go-gin-prometheus
 
 go 1.22.12
 
